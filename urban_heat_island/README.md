@@ -1,7 +1,11 @@
 <p align="center">
 <img style="max-width:100%;"
-src="https://cdn2.picryl.com/photo/2011/07/02/summer-heatwave-in-spain-image-of-the-day-0280de-1024.jpg"
-alt="Solar Panel"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NOAA%27s_Latest_High_Resolution_Weather_Model_%2815242010059%29.jpg/960px-NOAA%27s_Latest_High_Resolution_Weather_Model_%2815242010059%29.jpg?20171006072450"
+alt="Urban Heat Island"/>
+</p>
+
+<p style="text-align: right; color: gray; font-size: small;">
+  Authored by [NOAA Satellites]
 </p>
 
 ---
