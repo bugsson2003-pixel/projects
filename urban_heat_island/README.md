@@ -3,7 +3,7 @@
     <img style="width:100%; display: block;"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NOAA%27s_Latest_High_Resolution_Weather_Model_%2815242010059%29.jpg/960px-NOAA%27s_Latest_High_Resolution_Weather_Model_%2815242010059%29.jpg?20171006072450"
       alt="NOAA Weather Model"/>
-    <div align="right" style="color: #AAAAAA; font-size: 0.5em; margin-top: 5px;">
+    <div align="right" style="color: #e0e0e0; font-size: 0.3em; margin-top: 5px;">
       Credit: NOAA Satellites
     </div>
   </div>
