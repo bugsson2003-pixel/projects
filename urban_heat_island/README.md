@@ -29,5 +29,5 @@ In this project, the KMA's temperature data was utilized as ground truth (label)
 
 ---
 
-Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Jun 2024
+Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Jun 2024  
 Developed by: [Subin Kim](mailto:sbkim.phy@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Jun 2024
