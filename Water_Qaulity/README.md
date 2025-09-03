@@ -17,7 +17,7 @@ The result is an Analysis Ready Data (ARD) product that reduces the pre-processi
 > **Data Access**
 
 <a href="https://search.earthdata.nasa.gov/search?q=HLS">
-  <img src="https://www.earthdata.nasa.gov/themes/custom/project/hds_earthdata/nasa-earthdata-logo.png" alt="[Go to NASA EarthData]" width="10%">
+  <img src="https://www.earthdata.nasa.gov/themes/custom/project/hds_earthdata/nasa-earthdata-logo.png" alt="[Go to NASA EarthData]" width="30%">
 </a>
 
 ---
@@ -29,7 +29,7 @@ This system centralizes various measurement data and information on the water en
 > **Data Access**
 
 <a href="http://211.114.21.27/web">
-  <img src="http://211.114.21.27/com/images/common/logo.png" alt="[Go to WEIS]" width="10%">
+  <img src="http://211.114.21.27/com/images/common/logo.png" alt="[Go to WEIS]" width="30%">
 </a>
 
 ---

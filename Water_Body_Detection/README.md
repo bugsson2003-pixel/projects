@@ -12,7 +12,7 @@ The data used in this project was obtained from the Alaska Satellite Facility (A
 > **Data Access**
 
 <a href="https://search.asf.alaska.edu/">
-  <img src="https://asf.alaska.edu/wp-content/uploads/2022/08/asf-logo-blue-nav.png" alt="[Go to ASF DAAC]" width="10%">
+  <img src="https://asf.alaska.edu/wp-content/uploads/2022/08/asf-logo-blue-nav.png" alt="[Go to ASF DAAC]" width="30%">
 </a>
 
 ---
@@ -25,7 +25,7 @@ In this research, these high-quality, pre-processed flood maps were utilized as 
 > **Data Access**
 
 <a href="https://mapping.emergency.copernicus.eu/activations/">
-  <img src="https://emergency.copernicus.eu/static/images/cems-logo-ext.png" alt="[Go to Copernicus EMS]" width="10%">
+  <img src="https://emergency.copernicus.eu/static/images/cems-logo-ext.png" alt="[Go to Copernicus EMS]" width="30%">
 </a>
 
 ---
