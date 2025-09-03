@@ -1,3 +1,11 @@
+<p align="center">
+<img style="max-width:100%;"
+src="https://cdn2.picryl.com/photo/2011/07/02/summer-heatwave-in-spain-image-of-the-day-0280de-1024.jpg"
+alt="Solar Panel"/>
+</p>
+
+---
+
 # 🔥 Urban Heat Island
 This project analyzed and predicted trends in the Urban Heat Island (UHI) effect in Gwangju, South Korea using optical satellite data and machine learning (ML) approaches.
 
