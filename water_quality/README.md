@@ -1,8 +1,13 @@
-<p align="center">
-<img style="max-width:100%;"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sinileva_21Aug2015_-_1.jpg/960px-Sinileva_21Aug2015_-_1.jpg?20151011060835"
-alt="Water Quality"/>
-</p>
+<div align="center">
+  <div style="display: inline-block;">
+    <img style="width:100%; display: block;"
+      src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153282/lakeeriebloom_oli2_20240813_lrg.jpg"
+      alt="Lake Erie Blooms"/>
+    <div align="right">
+      Credit: NASA Earth Observatory
+    </div>
+  </div>
+</div>
 
 ---
 
