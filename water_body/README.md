@@ -1,8 +1,13 @@
-<p align="center">
-<img style="max-width:100%;"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Iraq_flood_ESA415988.jpg/960px-Iraq_flood_ESA415988.jpg?20190202155546"
-alt="Solar Panel"/>
-</p>
+<div align="center">
+  <div style="display: inline-block;">
+    <img style="max-width:100%; display: block;"
+      src="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152703/abudhabiflooding_oli2_20240419_lrg.jpg"
+      alt="Deluge in the United Arab Emirates"/>
+    <div align="right">
+      Credit: NASA Earth Observatory
+    </div>
+  </div>
+</div>
 
 ---
 
