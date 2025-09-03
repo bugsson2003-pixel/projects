@@ -1,13 +1,13 @@
-<div align="center">
-  <div style="display: inline-block;">
-    <img style="width:100%; display: block;"
-      src="https://heute-at-prod-images.imgix.net/2024/05/08/fb885765-5c73-427d-a163-3f6106da256d.jpeg?auto=format%2Ccompress&rect=0%2C0%2C1365%2C768&w=1616"
-      alt="Projects"/>
-    <div align="right">
-      Credit: Heute
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/7000/7424/neoglobes_oct2006.jpg" alt="첫 번째 그림" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2022-03/PHOTO-Climate-Collage-Diagonal-Design-NOAA-Communications-NO-NOAA-Logo.jpg?h=6f2719d3&itok=5z66VZJv" alt="두 번째 그림" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
