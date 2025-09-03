@@ -2,9 +2,9 @@
   <div style="display: inline-block;">
     <img style="width:100%; display: block;"
       src="https://earth.esa.int/documents/d/earth-online/1_leab_env_102011_l-jpg"
-      alt="Lake Erie Blooms"/>
+      alt="Algal blooms in Lake Erie (North America), 2011"/>
     <div align="right">
-      Credit: NASA Earth Observatory
+      Credit: ESA Earth Online
     </div>
   </div>
 </div>
