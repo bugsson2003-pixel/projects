@@ -15,4 +15,11 @@ This repository contains codes and data related to a research project focused on
 
 ---
 
+## 🔥 Urban Heat Island
+This project analyzed and predicted trends in the Urban Heat Island (UHI) effect in Gwangju, South Korea using optical satellite data and machine learning (ML) approaches.
+
+This research was conducted with the support of a grant from the Gwangju Climate & Energy Agency's **`Small Research Grant Program`**.
+
+---
+
 Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Sep 2025
