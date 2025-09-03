@@ -15,4 +15,4 @@ This repository contains codes and data related to a research project focused on
 
 ---
 
-Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?Subject=Questions for GitHub projects) @ Sep 2025
+Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Sep 2025
