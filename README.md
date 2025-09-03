@@ -31,15 +31,22 @@ The study utilizes optical satellite imagery in conjunction with AI models to de
 
 ---
 
-## 🌊 AI-based Water Body Detection for inundation Area
+## 🌊 [AI-based Water Body Detection for inundation Area](./water_body)
 This repository contains codes and data related to a research project focused on water body detection in ungauged areas using Earth observation satellites (primarily SAR) and AI.
 
 ---
 
-## 🔥 AI-based Trend Analysis of Urban Heat Island: The Case of Gwangu, South Korea
+## 🔥 [AI-based Trend Analysis of Urban Heat Island: The Case of Gwangu, South Korea](./urban_heat_island)
 This project analyzed and predicted trends in the Urban Heat Island (UHI) effect in Gwangju, South Korea using optical satellite data and machine learning (ML) approaches.
 
 This research was conducted with the support of a grant from the Gwangju Climate & Energy Agency's **`Small Research Grant Program`**.
+
+---
+
+## ☀️ [Integrating AI-based Solar Panel Detection with the WRF Model for Microclimate Impact Analysis](./solar_panel)
+This project aims to precisely detect the location and area of solar panels by analyzing optical satellite band data with an AI model. Furthermore, this high-resolution solar panel distribution data will be integrated into the WRF (Weather Research and Forecasting) numerical model to update existing land-use data to reflect real-world conditions and incorporate the panels' physical properties—such as albedo, surface roughness, and thermal characteristics—as land surface parameters.
+
+Through this integrated modeling approach, the research will quantitatively analyze the effects of large-scale solar farms on local weather phenomena, including ambient temperature and wind circulation.
 
 ---
 
