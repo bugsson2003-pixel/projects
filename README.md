@@ -1,8 +1,24 @@
-<p align="center">
-<img style="max-width:100%;"
-src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/Earth-Fleet-Chart-06102025-1080p.png"
-alt="Solar Panel"/>
-</p>
+<div align="center">
+  <div style="display: inline-block;">
+    <img style="width:100%; display: block;"
+      src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/Earth-Fleet-Chart-06102025-1080p.png"
+      alt="NASA EO Satellite Missions"/>
+    <div align="right">
+      Credit: NASA
+    </div>
+  </div>
+</div>
+<div align="center">
+  <div style="display: inline-block;">
+    <img style="width:100%; display: block;"
+      src="https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2022-03/PHOTO-Climate-Collage-Diagonal-Design-NOAA-Communications-NO-NOAA-Logo.jpg"
+      alt="Climate Change Impact"/>
+    <div align="right">
+      Credit: NOAA
+    </div>
+  </div>
+</div>
+
 
 ---
 
