@@ -1,6 +1,6 @@
 <p align="center">
 <img style="max-width:100%;"
-src="https://eoimages.gsfc.nasa.gov/images/imagerecords/7000/7424/neoglobes_oct2006.jpg"
+src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/Earth-Fleet-Chart-06102025-1080p.png"
 alt="Solar Panel"/>
 </p>
 
