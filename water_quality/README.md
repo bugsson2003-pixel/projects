@@ -1,7 +1,7 @@
 <div align="center">
   <div style="display: inline-block;">
     <img style="width:100%; display: block;"
-      src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153282/lakeeriebloom_oli2_20240813.jpg"
+      src="https://earth.esa.int/documents/d/earth-online/1_leab_env_102011_l-jpg"
       alt="Lake Erie Blooms"/>
     <div align="right">
       Credit: NASA Earth Observatory
