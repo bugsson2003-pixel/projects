@@ -36,4 +36,4 @@ The result is an Analysis Ready Data (ARD) product that reduces the pre-processi
 
 ---
 
-Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) & [Seongwoo Kim](mailto:bugsson2003-pixel@gmail.com?subject=Questions%20for%20GitHub%20projects)  @ Sep 2025
+Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) & [Seongwoo Kim](mailto:bugsson2003-pixel@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Sep 2025
