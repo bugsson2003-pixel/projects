@@ -10,7 +10,12 @@ ESA's Sentinel-1 mission provides continuous, all-weather, and day-and-night rad
 The data used in this project was obtained from the Alaska Satellite Facility (ASF) DAAC via its bulk download script, allowing for efficient acquisition of large, time-series datasets.
 
 > **Data Access**
-![Go to ASF DAAC](https://asf.alaska.edu/wp-content/uploads/2022/08/asf-logo-blue-nav.png)](https://search.asf.alaska.edu/)
+
+<a href="https://search.asf.alaska.edu/">
+  <img src="https://asf.alaska.edu/wp-content/uploads/2022/08/asf-logo-blue-nav.png" alt="[Go to ASF DAAC]" width="50%">
+</a>
+
+# [![Go to ASF DAAC](https://asf.alaska.edu/wp-content/uploads/2022/08/asf-logo-blue-nav.png)](https://search.asf.alaska.edu/)
 # [Go to ASF DAAC](https://search.asf.alaska.edu/)
 
 ---
