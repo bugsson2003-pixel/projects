@@ -27,3 +27,7 @@ In this research, these high-quality, pre-processed flood maps were utilized as 
 <a href="https://mapping.emergency.copernicus.eu/activations/">
   <img src="https://emergency.copernicus.eu/static/images/cems-logo-ext.png" alt="[Go to Copernicus EMS]" width="10%">
 </a>
+
+---
+
+Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?Subject=Questions for GitHub projects) @ Sep 2025
