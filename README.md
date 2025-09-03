@@ -1,12 +1,12 @@
-<table>
+<table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" style="vertical-align: top;">
-      <img style="width:100%;"
+    <td width="50%" style="border: none; padding: 5px; vertical-align: middle; text-align: center;">
+      <img style="max-height: 350px; max-width: 100%; display: block; margin: 0 auto;"
         src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/Earth-Fleet-Chart-06102025-1080p.png"
         alt="NASA EO Satellite Missions"/>
     </td>
-    <td width="50%" style="vertical-align: top;">
-      <img style="width:100%;"
+    <td width="50%" style="border: none; padding: 5px; vertical-align: middle; text-align: center;">
+      <img style="max-height: 350px; max-width: 100%; display: block; margin: 0 auto;"
         src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2710/Effects_page_triptych.jpeg?w=2963&h=1459&fit=clip&crop=faces%2Cfocalpoint"
         alt="Climate Change Impact"/>
       <div align="right">
