@@ -23,4 +23,7 @@ The Copernicus Emergency Management Service (EMS) provides geospatial informatio
 In this research, these high-quality, pre-processed flood maps were utilized as ground truth (label) data to validate the accuracy of the water body detection model trained with Sentinel-1 SAR imagery. The EMS dataset's operational focus and temporal alignment with flood events make it an ideal source for verifying the performance of our AI model.
 
 > **Data Access**
-[Go to Copernicus EMS](https://mapping.emergency.copernicus.eu/activations/)
+
+<a href="https://mapping.emergency.copernicus.eu/activations/">
+  <img src="https://emergency.copernicus.eu/static/images/cems-logo-ext.png" alt="[Go to Copernicus EMS]" width="10%">
+</a>
