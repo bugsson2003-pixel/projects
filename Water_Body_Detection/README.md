@@ -11,12 +11,9 @@ The data used in this project was obtained from the Alaska Satellite Facility (A
 
 > **Data Access**
 
-<a href="https://search.asf.alaska.edu/" target="_blank">
-  <img src="https://asf.alaska.edu/wp-content/uploads/2022/08/asf-logo-blue-nav.png" alt="[Go to ASF DAAC]" width="50%">
+<a href="https://search.asf.alaska.edu/">
+  <img src="https://asf.alaska.edu/wp-content/uploads/2022/08/asf-logo-blue-nav.png" alt="[Go to ASF DAAC]" width="10%">
 </a>
-
-# [![Go to ASF DAAC](https://asf.alaska.edu/wp-content/uploads/2022/08/asf-logo-blue-nav.png)](https://search.asf.alaska.edu/)
-# [Go to ASF DAAC](https://search.asf.alaska.edu/)
 
 ---
 
