@@ -1,3 +1,11 @@
+<p align="center">
+<img style="max-width:100%;"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Iraq_flood_ESA415988.jpg/960px-Iraq_flood_ESA415988.jpg?20190202155546"
+alt="Solar Panel"/>
+</p>
+
+---
+
 # 🌊 AI-based Water Body Detection for inundation Area
 This repository contains codes and data related to a research project focused on water body detection in ungauged areas using Earth observation satellites (primarily SAR) and AI.
 
