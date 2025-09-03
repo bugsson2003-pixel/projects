@@ -1,3 +1,11 @@
+<p align="center">
+<img style="max-width:100%;"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sinileva_21Aug2015_-_1.jpg/960px-Sinileva_21Aug2015_-_1.jpg?20151011060835"
+alt="Water Quality"/>
+</p>
+
+---
+
 # 💧 AI-based Chlorophyll-a Prediction for Inland Water in South Korea
 This folder contains resources related to a research project focused on predicting Chlorophyll-a (Chl-a) concentrations in lakes and reservoirs within South Korea's inland waters.
 
