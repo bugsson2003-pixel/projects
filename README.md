@@ -9,9 +9,6 @@
       <img style="max-height: 350px; max-width: 100%; display: block; margin: 0 auto;"
         src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2710/Effects_page_triptych.jpeg?w=2963&h=1459&fit=clip&crop=faces%2Cfocalpoint"
         alt="Climate Change Impact"/>
-      <div align="right">
-        <small>Credit: NASA</small>
-      </div>
     </td>
   </tr>
 </table>
