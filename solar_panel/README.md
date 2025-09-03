@@ -11,7 +11,7 @@
 
 ---
 
-# ☀️  Integrating AI-based Solar Panel Detection with the WRF Model for Microclimate Impact Analysis
+# ☀️  Integrating AI-based Solar Panel Detection with WRF Model for Microclimate Impact Analysis
 This project aims to precisely detect the location and area of solar panels by analyzing optical satellite band data with an AI model.
 Furthermore, this high-resolution solar panel distribution data will be integrated into the WRF (Weather Research and Forecasting) numerical model to update existing land-use data to reflect real-world conditions and incorporate the panels' physical properties—such as albedo, surface roughness, and thermal characteristics—as land surface parameters.
 
