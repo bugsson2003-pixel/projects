@@ -1,11 +1,13 @@
-<p align="center">
-<img style="max-width:100%;"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NOAA%27s_Latest_High_Resolution_Weather_Model_%2815242010059%29.jpg/960px-NOAA%27s_Latest_High_Resolution_Weather_Model_%2815242010059%29.jpg?20171006072450"
-alt="Urban Heat Island"/>
-</p>
-<div align="right" style="color: gray; font-size: small;">
-  Authored by [NOAA Satellites]
-</div>
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img style="max-width:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NOAA%27s_Latest_High_Resolution_Weather_Model_%2815242010059%29.jpg/960px-NOAA%27s_Latest_High_Resolution_Weather_Model_%2815242010059%29.jpg?20171006072450" alt="Weather Model"/>
+    </td>
+    <td style="vertical-align: bottom; text-align: right; color: gray; font-size: small;">
+      Authored by [NOAA Satellites]
+    </td>
+  </tr>
+</table>
 
 ---
 
