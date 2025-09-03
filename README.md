@@ -1,4 +1,12 @@
-# projects
+<p align="center">
+<img style="max-width:100%;"
+src="https://cdn12.picryl.com/photo/2016/12/31/satellite-galileo-space-computer-communication-110d62-1024.jpg"
+alt="Projects"/>
+</p>
+
+---
+
+# Projects
 A repository for various personal and collaborative research projects. It contains code, scripts, and other files related to my academic and professional work.
 
 ---
