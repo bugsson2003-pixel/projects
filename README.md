@@ -1,3 +1,21 @@
+<table>
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <img style="width:100%;"
+        src="https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030065/Earth-Fleet-Chart-06102025-1080p.png"
+        alt="NASA EO Satellite Missions"/>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <img style="width:100%;"
+        src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2710/Effects_page_triptych.jpeg?w=2963&h=1459&fit=clip&crop=faces%2Cfocalpoint"
+        alt="Climate Change Impact"/>
+      <div align="right">
+        <small>Credit: NASA</small>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <div style="display: inline-block;">
     <img style="width:100%; display: block;"
