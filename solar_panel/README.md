@@ -1,8 +1,13 @@
-<p align="center">
-<img style="max-width:100%;"
-src="https://hproofingpro.com/wp-content/uploads/2020/07/commercial-roof-replacement.jpeg"
-alt="Solar Panel"/>
-</p>
+<div align="center">
+  <div style="display: inline-block;">
+    <img style="width:100%; display: block;"
+      src="https://hproofingpro.com/wp-content/uploads/2020/07/commercial-roof-replacement.jpeg"
+      alt="Solar Panel"/>
+    <div align="right">
+      Credit: HP Roofing PRO
+    </div>
+  </div>
+</div>
 
 ---
 
