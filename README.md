@@ -1,8 +1,13 @@
-<p align="center">
-<img style="width:100%;"
-src="https://pixnio.com/free-images/2017/03/06/2017-03-06-12-09-17-960x480.jpg"
-alt="Project"/>
-</p>
+<div align="center">
+  <div style="display: inline-block;">
+    <img style="width:100%; display: block;"
+      src="https://heute-at-prod-images.imgix.net/2024/05/08/fb885765-5c73-427d-a163-3f6106da256d.jpeg?auto=format%2Ccompress&rect=0%2C0%2C1365%2C768&w=1616"
+      alt="Projects"/>
+    <div align="right">
+      Credit: Heute
+    </div>
+  </div>
+</div>
 
 ---
 
