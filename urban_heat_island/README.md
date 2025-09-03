@@ -30,7 +30,7 @@ In this project, the KMA's temperature data was utilized as ground truth (label)
 > **Data Access**
 
 <a href="https://data.kma.go.kr/cmmn/main.do">
-  <img src="https://data.kma.go.kr/resources/images/common/logo_top1.png" alt="[Go to KMA Open MET Data Portal]" width="30%">
+  <img src="https://data.kma.go.kr/resources/images/common/logo_top1.png" alt="[Go to KMA Open MET Data Portal]" width="15%">
 </a>
 
 ---
