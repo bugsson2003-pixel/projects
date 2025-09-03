@@ -1,6 +1,6 @@
 <p align="center">
 <img style="max-width:100%;"
-src="https://cdn12.picryl.com/photo/2016/12/31/satellite-galileo-space-computer-communication-110d62-1024.jpg"
+src="https://i1.pickpik.com/photos/429/386/517/space-view-italy-alps-europe-preview.jpg"
 alt="Projects"/>
 </p>
 
