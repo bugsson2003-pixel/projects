@@ -27,6 +27,12 @@ The Korea Meteorological Administration (KMA) provides official and high-quality
 
 In this project, the KMA's temperature data was utilized as ground truth (label) data to validate the accuracy of UHI prediction model. By comparing the temperature values predicted by our ML model with the actual, observed temperatures from KMA's stations, we were able to evaluate the model's performance and ensure its reliability for analyzing and forecasting UHI trends in Gwangju.
 
+> **Data Access**
+
+<a href="https://data.kma.go.kr/cmmn/main.do">
+  <img src="https://data.kma.go.kr/resources/images/common/logo_top1.png" alt="[Go to KMA Open MET Data Portal]" width="30%">
+</a>
+
 ---
 
 Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Jun 2024  
