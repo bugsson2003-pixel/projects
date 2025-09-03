@@ -1,13 +1,8 @@
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/7000/7424/neoglobes_oct2006.jpg" alt="첫 번째 그림" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2022-03/PHOTO-Climate-Collage-Diagonal-Design-NOAA-Communications-NO-NOAA-Logo.jpg?h=6f2719d3&itok=5z66VZJv" alt="두 번째 그림" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img style="max-width:100%;"
+src="https://eoimages.gsfc.nasa.gov/images/imagerecords/7000/7424/neoglobes_oct2006.jpg"
+alt="Solar Panel"/>
+</p>
 
 ---
 
