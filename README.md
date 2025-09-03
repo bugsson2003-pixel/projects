@@ -1,5 +1,5 @@
 <p align="center">
-<img style="max-width:100%;"
+<img style="width:100%;"
 src="https://www.stockvault.net/data/2016/02/19/184584/preview16.jpg"
 alt="Project"/>
 </p>
