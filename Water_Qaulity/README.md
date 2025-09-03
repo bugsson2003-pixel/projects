@@ -34,4 +34,4 @@ This system centralizes various measurement data and information on the water en
 
 ---
 
-Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?Subject=Questions for GitHub projects) @ Sep 2025
+Developed by: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Sep 2025
